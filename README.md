@@ -1,4 +1,4 @@
-# PA1---Numerical-Python
+# PA2---Numerical-Python
 "This repository contains Python code that solves programming problems titled: *Normalization* and *Divisible by 3*."
 
 Below is a preview of the code, but there is also a Jupyter notebook uploaded in the files section.
