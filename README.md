@@ -3,7 +3,17 @@
 
 Below is a preview of the code, but there is also a Jupyter notebook uploaded in the files section.
 
+---
+
 ## 1. Normalization Problem
+
+This project normalizes a randomly generated 5x5 ndarray. The normalization is performed by:
+- **Centering** the data (subtracting the mean)
+- **Scaling** it (dividing by the standard deviation)
+
+The normalized array is saved as `X_normalized.npy`.
+
+### Code Implementation
 ``` python
 import numpy as np
 
